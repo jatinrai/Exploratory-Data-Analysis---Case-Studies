@@ -3,8 +3,8 @@ There are two datasets that provide information on samples of red and white vari
 
 Attributes in Each Dataset:
 #	Physicochemical Properties
-1	Fixed Acidity
-2 Volatile Acidity
+- 1	Fixed Acidity
+- 2 Volatile Acidity
 3	Citric Acid
 4	Residual Sugar
 5	Chlorides
