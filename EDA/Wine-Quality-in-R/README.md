@@ -5,17 +5,17 @@ Attributes in Each Dataset:
 #	Physicochemical Properties
 - 1	Fixed Acidity
 - 2 Volatile Acidity
-3	Citric Acid
-4	Residual Sugar
-5	Chlorides
-6	Free Sulfur Dioxide
-7	Total Sulfur Dioxide
-8	Density
-9	pH
-10	Sulphates
-11	Alcohol
+- 3	Citric Acid
+- 4	Residual Sugar
+- 5	Chlorides
+- 6	Free Sulfur Dioxide
+- 7	Total Sulfur Dioxide
+- 8	Density
+- 9	pH
+- 10	Sulphates
+- 11	Alcohol
 #	Quality Rating
-12	Quality - Score between 0 and 10 (median of at least 3 evaluations made by wine experts)
+- 12	Quality - Score between 0 and 10 (median of at least 3 evaluations made by wine experts)
 
-Exploratory Data Analysis is done on the above dataset with suitable plots and findings.
+# Exploratory Data Analysis is done on the above dataset with suitable plots and findings.
 
